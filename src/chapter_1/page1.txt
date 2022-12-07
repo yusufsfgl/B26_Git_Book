@@ -1,11 +1,11 @@
 
 
 
-This is start of my book
-Page 1 will help us get started
+This is start of my book.
+Page 1 will help us get started.
 
-Java is cool
+Java is cool!
 
-James Bond is always with us
+James Bond is always with us.
 
 
