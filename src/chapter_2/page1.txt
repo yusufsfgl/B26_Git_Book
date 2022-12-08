@@ -5,5 +5,5 @@ this is page 1
 
 I'll say something
 
-Git class is boring than java class
+Git class is boring than java clas
 
